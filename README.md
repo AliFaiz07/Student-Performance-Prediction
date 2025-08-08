@@ -27,8 +27,9 @@ It analyzes academic, attendance, and behavioral data to generate risk levels, v
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
+```plaintext
 .
 ├── dashboard.py               # Streamlit dashboard
 ├── generate_ml_dataset.py      # Generates ML-ready dataset
@@ -39,3 +40,5 @@ It analyzes academic, attendance, and behavioral data to generate risk levels, v
 ├── requirements.txt            # Dependencies
 └── docs/
     └── Student Performance Prediction Report.docx
+```
+
