@@ -1,0 +1,9 @@
+streamlit
+pandas
+sqlalchemy
+matplotlib
+plotly
+wordcloud
+faker
+mysql-connector-python
+pymysql
